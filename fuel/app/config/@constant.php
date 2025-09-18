@@ -1,0 +1,2 @@
+<?php
+define('TRANSACTION_ID_NAME', 'TRANSACTION_ID');
