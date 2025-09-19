@@ -1,0 +1,2 @@
+
+Fatal error: Out of memory (allocated 23068672) (tried to allocate 135168 bytes) in /var/www/bronline/public/wp/wp-includes/pomo/streams.php on line 110

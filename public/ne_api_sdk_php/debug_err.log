@@ -1,0 +1,4 @@
+PHP Warning:  file_get_contents(http://...@test.bronline.jp/ne_api_sdk_php/api_brnext.php?receive_id=0): failed to open stream: HTTP request failed!  in /var/www/vhosts/test.bronline.jp/html/ne_api_sdk_php/refresh.php on line 2
+PHP Warning:  file_get_contents(http://...@test.bronline.jp/ne_api_sdk_php/api_brnext.php?receive_id=0): failed to open stream: HTTP request failed!  in /var/www/vhosts/test.bronline.jp/html/ne_api_sdk_php/refresh.php on line 2
+PHP Warning:  file_get_contents(http://...@test.bronline.jp/ne_api_sdk_php/api_brnext.php?receive_id=0): failed to open stream: Connection refused in /var/www/vhosts/test.bronline.jp/html/ne_api_sdk_php/refresh.php on line 2
+PHP Warning:  file_get_contents(http://...@test.bronline.jp/ne_api_sdk_php/api_brnext.php?receive_id=0): failed to open stream: Connection timed out in /var/www/vhosts/test.bronline.jp/html/ne_api_sdk_php/refresh.php on line 2
